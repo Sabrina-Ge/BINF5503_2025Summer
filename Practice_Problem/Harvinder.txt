@@ -1,1 +1,1 @@
-Reproducibility is important because it allows others to validate findings and build on research with confidence.
+Reproducibility matters because it enables others to verify results and advance research with greater trust.
