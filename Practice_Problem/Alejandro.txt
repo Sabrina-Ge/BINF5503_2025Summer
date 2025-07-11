@@ -1,0 +1,1 @@
+Reproducibility is important as it ensures credibility by allowing others to obtain the same results after following the same methods. It also allows for further research to be built on reproducible results which further ensures transparency and reliability.
