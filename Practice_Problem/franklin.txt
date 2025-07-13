@@ -1,1 +1,1 @@
-"Reproducibility ensures others can validate and build upon scientific work, reinforcing credibility." 
+Reproducibility ensures others can validate and build upon scientific work, reinforcing credibility. 
